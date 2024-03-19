@@ -9,3 +9,7 @@ while True:
         print('===========')
         print('Tokio pasirinkimo nera')
         continue
+
+#pauze printui
+    print()
+    input('Testi - Enter')
