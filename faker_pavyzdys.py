@@ -1,4 +1,5 @@
 from faker import Faker
+import requests
 
 fa = Faker()
 print(fa.name())
